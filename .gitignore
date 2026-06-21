@@ -163,6 +163,5 @@ cython_debug/
 #.idea/
 
 artifact/
-706243848541.dkr.ecr.ap-southeast-2.amazonaws.com/vehicleprojj
 
-vehicle_data_machine
+
